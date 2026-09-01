@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hebert%20Cornejo&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=haciendo%20que%20las%20cosas%20se%20hagan%20solas&descAlignY=55&descSize=16" width="100%">
+<img src="arcade.svg" width="100%" alt="">
 
 <div align="center">
 
@@ -101,8 +101,6 @@ Si te dio curiosidad algo de acá o quieres conversar de código, por aquí ando
 
 <br><br>
 
-*Si lo haces dos veces a mano, probablemente se puede automatizar*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=4000&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&height=40&lines=SI+LO+HACES+DOS+VECES+A+MANO...;...SE+PUEDE+AUTOMATIZAR" alt="Si lo haces dos veces a mano, se puede automatizar">
 
 </div>
