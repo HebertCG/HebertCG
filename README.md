@@ -62,23 +62,6 @@ Una red de patología oncológica con seis sedes en el Perú. Lo entretenido ac�
 **[Dr. Fabio Palacios](https://github.com/HebertCG/FabioPalacios)** · [ver sitio](https://fabiopalacios.cornejogarciahebertjose.workers.dev)
 La página de un cirujano oncólogo de Piura. Toda ella existe para responder una sola pregunta que se hace su paciente: *"¿tengo que viajar a Lima para operarme?"*.
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28"> Cómo funciona por dentro
-
-Uso más o menos la misma arquitectura en los tres proyectos de automatización, y la voy afinando en cada uno:
-
-```mermaid
-flowchart LR
-  A["Cliente en WhatsApp"] --> B["WhatsApp Cloud API"]
-  B --> C["n8n"]
-  C --> D["OpenAI: texto, audio, imagen"]
-  D --> C
-  C --> E[("PostgreSQL: logica en funciones SQL")]
-  E --> F["Panel del personal"]
-  F --> E
-  E --> G["Respuesta automatica al cliente"]
-```
 
 Lo que más me gustó descubrir de todo esto es dónde conviene poner las reglas: van en la base de datos, no en el modelo de IA. Así el bot puede equivocarse hablando, pero nunca puede romper los datos.
 
