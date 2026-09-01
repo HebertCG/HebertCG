@@ -1,95 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hebert%20Cornejo&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=haciendo%20que%20las%20cosas%20se%20hagan%20solas&descAlignY=55&descSize=16" width="100%">
+
 <div align="center">
 
-<h1>🤖⚙️</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40">
 
-<h1>Hola, soy Hebert Cornejo</h1>
+# Hola, soy Hebert
 
-<p>
-🚀 Automatizador de Procesos &nbsp;|&nbsp; 🌐 Desarrollador Web Freelance &nbsp;|&nbsp; 🇵🇪 Desde Piura, Perú
-</p>
-
-<a href="https://www.linkedin.com/in/hebertcornejo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://instagram.com/hebert_cg">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="mailto:TU-CORREO@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Me+gusta+hacer+que+las+cosas+se+hagan+solas;Bots+de+WhatsApp%2C+flujos+con+n8n+y+paginas+web;Estudiante+de+Ing.+de+Sistemas+en+Piura%2C+Peru" alt="Typing SVG">
 
 </div>
 
 ---
 
-## 🎯 Sobre mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="28"> Sobre mí
 
-Me dedico a que la gente deje de copiar y pegar cosas a mano. 🙂
+Desde que aprendí a programar me pasa siempre lo mismo: veo a alguien haciendo algo repetitivo a mano y no puedo dejar de pensar en cómo hacer que eso se haga solo.
 
-✨ Si un negocio tiene a tres personas transcribiendo pedidos de WhatsApp a un Excel, ahí hay un problema que se resuelve con código — y esa es justo la parte que más me gusta.
+No empecé a hacerlo por trabajo. Lo hago porque me gusta ver funcionando algo que antes no existía, y porque cuando un negocio chico deja de perder horas en tareas tontas, se nota de verdad.
 
-🇵🇪 Trabajo como freelance desde Piura con restaurantes, delivery, talleres de autos y consultorios médicos. Nada de proyectos de práctica: todo lo que hay acá está corriendo con clientes de verdad.
+Estudio Ingeniería de Sistemas en Piura y me paso la mayor parte del tiempo construyendo cosas por mi cuenta, rompiéndolas y volviéndolas a armar.
 
-🔍 **Actualmente enfocado en:**
+**Ahora ando metido en:**
 
-- 🤖 Bots de WhatsApp que reservan, cotizan y confirman solos, sin que nadie conteste
-- 🔗 Conectar herramientas que no se hablaban entre sí, con n8n y APIs
-- 🧠 Meter modelos de IA dentro de los flujos sin que puedan romper nada
-- ⚡ Landing pages que cargan rápido de verdad, no solo en la demo
-
----
-
-## 💻 Tecnologías que uso con frecuencia
-
-### 🤖 Automatización
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</p>
-
-### 🌐 Web e infraestructura
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,tailwind,html,css,vite,nodejs,postgres,supabase,docker,nginx,vercel,cloudflare,git,github,vscode&perline=9" alt="Stack web">
-</p>
+- Bots de WhatsApp que conversan, agendan y confirman sin que nadie conteste
+- Conectar herramientas que no se hablaban entre sí
+- Aprender a meter modelos de IA dentro de un flujo sin que puedan romper nada
+- Páginas que carguen rápido de verdad, no solo en la demo
 
 ---
 
-## 🎮 Misión actual: que ningún negocio siga haciendo a mano lo que puede hacer solo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="28"> Tecnologías que uso con frecuencia
 
-Cada repo de acá es un negocio real que dejó de perder horas. 🎯
+<div align="center">
 
-📁 **[Automatizacion_Jagguar](https://github.com/HebertCG/Automatizacion_Jagguar)** · [🔴 demo en vivo](https://automatizacion-jagguar.vercel.app)
-Un taller de detailing perdía consultas de madrugada y tardaba 10 mensajes en cerrar una cita. Ahora hay 8 workflows de n8n, un bot de 64 nodos que entiende texto, audio e imágenes, y un panel con CRM, métricas y agenda. Los plantones se acabaron pidiendo 20% de adelanto. 🚗
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,git,github&perline=7" alt="HTML, CSS, JavaScript, React, Angular, Git, GitHub">
 
-📁 **[Automatizacion_Guidos](https://github.com/HebertCG/Automatizacion_Guidos)**
-Un delivery donde los pedidos solo existían dentro del chat y alguien revisaba los vouchers de Yape a ojo en plena hora pico. Ahora hay una máquina de 7 estados en PostgreSQL, OCR que lee los vouchers, pantalla de cocina en tiempo real y una app aparte para el motorizado. 🛵
-
-📁 **[Automatizacion_Tayanti](https://github.com/HebertCG/Automatizacion_Tayanti)**
-Un restaurante que solo tomaba reservas en horario de atención y las copiaba a mano. Ahora un bot atiende 24/7 con memoria de conversación, y el personal ve todo en un panel con KPIs del día. 🍽️
+</div>
 
 ---
 
-## 🌐 Y también hago webs
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"> Cosas que he construido
 
-📁 **[thenorthofoncopathology](https://github.com/HebertCG/thenorthofoncopathology)** · [🔗 en vivo](https://thenorthofoncopathology-coral.vercel.app)
-Red de anatomía patológica oncológica con 6 sedes en el Perú. El reto era hablarle a tres públicos a la vez —pacientes, médicos que derivan e instituciones— así que el formulario los separa desde el inicio.
-`React 18` `TypeScript` `Vite` `Tailwind` `Playwright`
+Todas empezaron igual: alguien haciendo a mano algo que la computadora podía hacer sola.
 
-📁 **[FabioPalacios](https://github.com/HebertCG/FabioPalacios)** · [🔗 en vivo](https://fabiopalacios.cornejogarciahebertjose.workers.dev)
-Landing de un cirujano oncólogo en Piura. Toda la página existe para responder una sola pregunta: *"¿tengo que viajar a Lima para operarme?"*.
-`Angular 22` `TypeScript` `Prerender` `Cloudflare Workers`
+<br>
+
+**[Jaguar](https://github.com/HebertCG/Automatizacion_Jagguar)** · [ver demo](https://automatizacion-jagguar.vercel.app)
+Un taller de detailing perdía las consultas que llegaban de madrugada y tardaba diez mensajes en cerrar una cita. Ahora un bot atiende solo, entiende audios y fotos, y el personal ve todo desde un panel con agenda y métricas.
+
+**[Guido's](https://github.com/HebertCG/Automatizacion_Guidos)**
+Un delivery donde los pedidos solo existían dentro del chat y alguien revisaba los vouchers de Yape a ojo en plena hora pico. Le armé una máquina de estados, lectura automática de vouchers y una pantalla de cocina que se actualiza sola.
+
+**[Tayanti](https://github.com/HebertCG/Automatizacion_Tayanti)**
+Un restaurante que solo tomaba reservas en horario de atención y las copiaba a mano a un Excel. Ahora las recibe a cualquier hora y quedan ordenadas sin que nadie las transcriba.
+
+<br>
+
+**[The North of Oncopathology](https://github.com/HebertCG/thenorthofoncopathology)** · [ver sitio](https://thenorthofoncopathology-coral.vercel.app)
+Una red de patología oncológica con seis sedes en el Perú. Lo entretenido acá fue que la página tenía que hablarle a tres personas distintas a la vez: el paciente, el médico que deriva y la institución.
+
+**[Dr. Fabio Palacios](https://github.com/HebertCG/FabioPalacios)** · [ver sitio](https://fabiopalacios.cornejogarciahebertjose.workers.dev)
+La página de un cirujano oncólogo de Piura. Toda ella existe para responder una sola pregunta que se hace su paciente: *"¿tengo que viajar a Lima para operarme?"*.
 
 ---
 
-## 🧠 Cómo funciona por dentro lo que construyo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28"> Cómo funciona por dentro
 
-Uso la misma arquitectura en los tres proyectos de automatización, y la voy afinando en cada uno:
+Uso más o menos la misma arquitectura en los tres proyectos de automatización, y la voy afinando en cada uno:
 
 ```mermaid
 flowchart LR
@@ -98,29 +75,34 @@ flowchart LR
   C --> D["OpenAI: texto, audio, imagen"]
   D --> C
   C --> E[("PostgreSQL: logica en funciones SQL")]
-  E --> F["Panel del personal: Realtime + RLS"]
+  E --> F["Panel del personal"]
   F --> E
-  E --> G["Notificacion automatica al cliente"]
+  E --> G["Respuesta automatica al cliente"]
 ```
 
-💡 **El truco está en dónde vive la lógica:** todas las reglas del negocio están en funciones de PostgreSQL, no en el modelo de IA ni en el navegador. Así el bot puede equivocarse hablando, pero nunca puede romper los datos.
-
----
-
-## 🤝 ¿Trabajamos juntos?
-
-📌 Primero un **diagnóstico gratis**: reviso tu proceso y te digo con honestidad si vale la pena automatizarlo. A veces la respuesta es que no. 🤷
-
-📌 Después un **prototipo funcionando** antes de que pagues todo.
-
-📌 Y al final una **entrega documentada**, para que puedas seguir sin depender de mí.
+Lo que más me gustó descubrir de todo esto es dónde conviene poner las reglas: van en la base de datos, no en el modelo de IA. Así el bot puede equivocarse hablando, pero nunca puede romper los datos.
 
 ---
 
 <div align="center">
 
-⚙️ Automatizando desde **Piura (Perú)** 🇵🇪 para donde haga falta 🌎
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40">
 
-✨ *Si lo haces dos veces a mano, probablemente se puede automatizar* ✨
+### Siempre ando construyendo algo
+
+Si te dio curiosidad algo de acá o quieres conversar de código, por aquí ando.
+
+<a href="https://www.linkedin.com/in/hebertcornejo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/hebert_cg">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<br><br>
+
+*Si lo haces dos veces a mano, probablemente se puede automatizar*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
 
 </div>
