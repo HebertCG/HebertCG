@@ -56,14 +56,14 @@ Un restaurante que solo tomaba reservas en horario de atención y las copiaba a 
 
 <br>
 
-**[The North of Oncopathology](https://github.com/HebertCG/thenorthofoncopathology)** · [ver sitio](https://thenorthofoncopathology-coral.vercel.app)
+**[The North of Oncopathology](https://github.com/HebertCG/thenorthofoncopathology)** · [ver sitio](https://tnm.pe/)
 Una red de patología oncológica con seis sedes en el Perú. Lo entretenido acá fue que la página tenía que hablarle a tres personas distintas a la vez: el paciente, el médico que deriva y la institución.
 
-**[Dr. Fabio Palacios](https://github.com/HebertCG/FabioPalacios)** · [ver sitio](https://fabiopalacios.cornejogarciahebertjose.workers.dev)
+**[Dr. Fabio Palacios](https://github.com/HebertCG/FabioPalacios)** · [ver sitio](https://fabiopalacios.org.pe/)
 La página de un cirujano oncólogo de Piura. Toda ella existe para responder una sola pregunta que se hace su paciente: *"¿tengo que viajar a Lima para operarme?"*.
 
-
-Lo que más me gustó descubrir de todo esto es dónde conviene poner las reglas: van en la base de datos, no en el modelo de IA. Así el bot puede equivocarse hablando, pero nunca puede romper los datos.
+**[Klassia](https://github.com/HebertCG/klassiaPage)** · [ver sitio](https://klassia.lat/)
+La página de un nuevo startup de gestion academica, pensada para academis de bajo presupuesto considerando una buena experiencia 
 
 ---
 
